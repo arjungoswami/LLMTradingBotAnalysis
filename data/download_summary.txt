@@ -1,0 +1,41 @@
+Hyperliquid Address Data Download Summary
+============================================================
+Downloaded at: 2025-10-29 15:01:57
+
+------------------------------------------------------------
+
+Address: 0x56d652e62998251b56c8398fb11fcfe464c08f84
+------------------------------------------------------------
+  fills: address_data/0x56d652e62998251b56c8398fb11fcfe464c08f84/fills.json
+  funding: address_data/0x56d652e62998251b56c8398fb11fcfe464c08f84/funding.json
+  ledger: address_data/0x56d652e62998251b56c8398fb11fcfe464c08f84/ledger.json
+
+Address: 0x7a8fd8bba33e37361ca6b0cb4518a44681bad2f3
+------------------------------------------------------------
+  fills: address_data/0x7a8fd8bba33e37361ca6b0cb4518a44681bad2f3/fills.json
+  funding: address_data/0x7a8fd8bba33e37361ca6b0cb4518a44681bad2f3/funding.json
+  ledger: address_data/0x7a8fd8bba33e37361ca6b0cb4518a44681bad2f3/ledger.json
+
+Address: 0x67293d914eafb26878534571add81f6bd2d9fe06
+------------------------------------------------------------
+  fills: address_data/0x67293d914eafb26878534571add81f6bd2d9fe06/fills.json
+  funding: address_data/0x67293d914eafb26878534571add81f6bd2d9fe06/funding.json
+  ledger: address_data/0x67293d914eafb26878534571add81f6bd2d9fe06/ledger.json
+
+Address: 0x59fa085d106541a834017b97060bcbbb0aa82869
+------------------------------------------------------------
+  fills: address_data/0x59fa085d106541a834017b97060bcbbb0aa82869/fills.json
+  funding: address_data/0x59fa085d106541a834017b97060bcbbb0aa82869/funding.json
+  ledger: address_data/0x59fa085d106541a834017b97060bcbbb0aa82869/ledger.json
+
+Address: 0x1b7a7d099a670256207a30dd0ae13d35f278010f
+------------------------------------------------------------
+  fills: address_data/0x1b7a7d099a670256207a30dd0ae13d35f278010f/fills.json
+  funding: address_data/0x1b7a7d099a670256207a30dd0ae13d35f278010f/funding.json
+  ledger: address_data/0x1b7a7d099a670256207a30dd0ae13d35f278010f/ledger.json
+
+Address: 0xc20ac4dc4188660cbf555448af52694ca62b0734
+------------------------------------------------------------
+  fills: address_data/0xc20ac4dc4188660cbf555448af52694ca62b0734/fills.json
+  funding: address_data/0xc20ac4dc4188660cbf555448af52694ca62b0734/funding.json
+  ledger: address_data/0xc20ac4dc4188660cbf555448af52694ca62b0734/ledger.json
